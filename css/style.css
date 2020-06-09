@@ -1,0 +1,98 @@
+body{
+    font-family: Georgia;
+    width: 100%;
+    color: black;
+	font-weight:900;
+	background-color:black;
+}
+
+table{
+    width:70%;
+    color: black ;
+    background-image: linear-gradient(to top left, rgb(153, 201, 195), rgb(150, 201, 199), rgb(147, 201, 203), rgb(143, 201, 206), rgb(140, 201, 210), 
+	rgb(137, 201, 214), rgb(155, 209, 196), rgb(172, 217, 178), rgb(190, 226, 160), rgb(208, 234, 141), rgb(225, 242, 123), rgb(243, 250, 105));
+    opacity: 0.75;
+
+}
+.bg{
+    width: 100%;    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+td{
+    width: 40%;
+}
+tr{
+    transition: 1s;
+    
+}
+
+tr:hover{
+    background-color: purple;
+}
+h1 {
+    text-align: center;
+}
+#frame1 {
+  background: radial-gradient(80% 80%,Aquamarine,  Plum);
+  border-radius: 2px;
+  width: 192px;
+  height: 130px;
+  position: absolute;
+  top: 150px;
+  left: 5px;
+}
+
+
+#timer {
+  width: 150px;
+  height: 30px;
+  font-size: 20px;
+  color: grey;
+  position: relative;
+  left: 40px;
+}
+#italy{
+    background: url(../images/italy.jpg)  no-repeat center center/cover;
+}
+#japan{
+    background: url(../images/japan.jpg) no-repeat center center/cover;
+}
+#england{
+    background: url(../images/england.jpg) no-repeat center center/cover;
+}
+#france{
+    background: url(../images/france.jpg) no-repeat center center/cover;
+}
+#afghanistan{
+    background: url(../images/afghanistan.jpg) no-repeat center center/cover;
+}
+#switzerland{
+    background: url(../images/switzerland.jpg) no-repeat center center/cover;
+}
+#hungary{
+    background: url(../images/hungary.jpg) no-repeat center center/cover;
+}
+#brazilia{
+    background: url(../images/brazilia.jpg) no-repeat center center/cover;
+}
+#kolumbia{
+    background: url(../images/kolumbia.jpg) no-repeat center center/cover;
+}
+#argentina{
+    background: url(../images/argentina.jpg) no-repeat center center/cover;
+}
+#india{
+    background: url(../images/india.jpg) no-repeat center center/cover;
+}
+#canada{
+    background: url(../images/canada.jpg) no-repeat center center/cover;
+}
+#mexico{
+    background: url(../images/mexico.jpg) no-repeat center center/cover;
+}
+#romania{
+    background: url(../images/romania.jpg) no-repeat center center/cover;
+}
+
